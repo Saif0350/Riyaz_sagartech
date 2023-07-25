@@ -1,0 +1,751 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (min-width:1921px) and (max-width:2560px){
+	.image_adjust {
+    left: 24%;
+   
+    
+    width: 9%;
+   
+}
+}
+
+@media only screen and (max-width:1199px){
+	nav > ul > li > a {
+  padding: 18px 4px;
+}
+	.tab-data > p{ padding: 0 40px;}
+	.tab-data ul li{padding: 0 30px;}
+	.contact-details {
+  padding: 20px 10px;
+}
+	#about .about-data > h4{font-size:18px;}
+	#about .tab-data ul li{padding:0 8px;}
+	.extra h3{ font-size: 30px;}
+.width_Adjust {
+  margin-left: -17px;
+  width: 30%;
+}
+.width_Adjust {
+  width: 28%;
+}
+.quotes > p {
+  font-size: 34px;
+  left: 55px;
+  top: 78px;
+}
+	.min_ornaments > p{ left:3px;}
+.quotes span {
+  font-size: 20px;
+  line-height: 24px;
+}
+.quotes > p {
+  font-size: 27px;
+  left: 61px;
+  top: 78px;
+}
+.quotes {
+  margin-top: 292px;
+}
+.bg_mosque.mosque_pad {
+  left: 18px;
+  position: relative;
+  width: 118%;
+}
+	.box {
+  left: 43px;
+  
+  margin-left: 7px;
+  padding-top: 15px;
+  position: relative;
+  width: 30%;
+}
+.contact_boxes {
+  background-size: cover;
+  height: 475px;
+  padding: 87px 42px 42px;
+  width: 100%;
+}
+.width_btn {
+  width: 100% !important;
+}
+}
+@media only screen and (max-width:1080px){
+	.image_adjust {
+  left: 80px;
+  top: 15px;
+  width: 19%;
+  
+}
+.heights > h2 {
+  font-size: 13px !important;
+ 
+}
+ #umrah .nav-tabs > li {
+  width: 35%;
+}
+}
+@media only screen and (max-width:1050px){
+	.about_padding {
+  padding: 30px 24px;
+}
+	.columns{ left:0;}
+}
+@media only screen and (min-width:992px) and (max-width:1077px){
+	.min_widths {
+  left: 65px;
+  position: relative;
+  width: 70%;
+}
+}
+@media only screen and (max-width:991px){
+	.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+	.bg_payment {
+    background: #ecc74f;
+    height: auto;
+    margin-top: 0;
+    min-height: 100%;
+    padding: 60px 45px;
+    width: 102.6%;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+	.sp-offer{ height:500px;}
+	.contact_boxes {
+  background-size: cover;
+  height: 688px;
+  padding: 120px 42px 42px;
+  width: 78%;
+}
+	.min_ornaments > p {
+  left: -47px;
+}#hajj .boxes{ width:100%;}
+.width_Adjust {
+  float: left;
+  margin-bottom: 114px;
+  margin-top: 82px;
+  width: 50%;
+}
+.ziyarat_background {
+  height: 700px;
+
+}
+	.ziyarat_packages > h2 {
+
+  left: 165px;
+  margin-top: 19px;
+ 
+}
+	.ziyarat_mosque {
+  margin-left: 0;
+  margin-top: 139px;
+  width: 54%;
+}
+	.bg_newing{ height:  594px;}
+	.bg_mosque.mosque_pad{ display:none;}
+	.quotes > p {
+  font-size: 35px;
+  left: 61px;
+  top: 95px;
+}
+	.title{ margin-top:52px;}
+.margin_bottoms {
+  margin-bottom: 50px;
+}
+.box {
+  height: 130px;
+}
+.service-carousel {
+  padding-top: 0;
+}
+	.bg_about{background-position:63% 65%;}
+	.columns {
+  left: 120px;
+}
+}
+@media only screen and (max-width:980px){
+	.topbar::before{ display: none;}
+	.topbar{ width:100%;}
+	.image_adjust {
+  top: 49px;
+  width: 25%;
+}
+	.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+	.width_Adjust {
+  float: left;
+  margin-bottom: 16px;
+  margin-top: -18px;
+  width: 50%;
+}#hajj .boxes{ width:100%;}
+.contact_boxes {
+  margin: 0 auto;
+  width: 70%;
+}
+	.pagetop{ margin-top:0;}
+	.ziyarat_mosque {
+ 
+  margin-top: 0;
+  
+}
+.ziyarat_background {
+  height: 580px;
+}
+}
+@media only screen and (max-width:860px){
+	.bg_about {
+  background-position: 131% 56%;
+}
+.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+#ziyarat .departure_box {
+  border: 1px dashed #a89137;
+  height: 80px;
+  margin: 20px auto 0;
+  width: 80%;
+}
+#ziyarat .ornamts {
+  left: 36px;
+  top: 15px;
+}
+#ziyarat  .ornamtss {
+  right: 35px;
+  top: 16px;
+}
+.columns {
+  left: 75px;
+}
+.min_widths {
+  margin: 0 auto;
+  width: 80%;
+}#hajj .boxes{ width:100%;}
+}
+@media only screen and (max-width:768px){
+	.image_adjust {
+  top: 60px;
+  width: 29%;
+}#ziyarat .ziyarat_packages > h2 {
+  left: 0;
+  margin-top: 19px;
+}
+.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+	
+	#ziyarat .para_Design{ left:0;}
+.bg_about {
+  background-position: 45% 56%;
+}
+	#hajj .boxes{ width:100%;}
+}
+
+@media only screen and (max-width:680px){
+	.box{ left:0; margin-left:16px;}
+	.boxes{ width:100%;}
+	.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+}
+@media only screen and (max-width:640px){
+	.width_Adjust {
+  
+  margin: -58px auto 67px;
+  width: 100%;
+}
+.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+.bg_newing {
+  height: 900px;
+}
+.min_ornaments > p {
+  left: -177px;
+}
+}
+@media only screen and (max-width:600px){
+	.responsive-btn {
+  float: right;
+  width: auto;
+  margin-top: -22px;
+  margin-right: 45px;
+}
+.quotes > p {
+  font-size: 35px;
+  left: 0;
+  margin-left: 26px;
+  top: 95px;
+  width: 60%;
+}
+.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+.back_new {
+  background-image: url("../images/background-form.jpg") !important;
+}
+	.contact_boxes{height: 715px;}
+}
+@media only screen and (max-width:585px){
+	.nav-tabs > li a{ width:100%;}
+	.nav-tabs > li {
+  width: 100% !important;
+}
+	.quotes > p{width: 70%;}
+	.back_news{ background:none !important;}
+	.min_widths {
+  margin: 0 auto;
+  width: 91%;
+}
+	.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+.departure_box {
+  border: 1px dashed #a89137;
+  height: 135px;
+  margin:0 auto 33px;
+  width: 70%;
+}
+.bg1 {
+  float: left;
+  width: 100%;
+}
+.ornamts {
+ 
+  
+  left: 27px;
+ 
+  width: 100px;
+}
+.ornamtss {
+  right: 25px;
+  width: 100px;
+}
+	.width1 {
+  height: 65px;
+  width: 31.66%;
+}
+}
+@media only screen and (max-width:540px){
+	#about .box{ width:43%;}
+	.tip-content {
+  display: none;
+}.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+.min_ornaments > p {
+  left: -125px;
+}
+#ziyarat .departure_box {
+  border: 1px dashed #a89137;
+  height: 80px;
+  margin: 20px auto 0;
+  width: 85%;
+}
+#ziyarat .ornamts {
+  left: 6px;
+  top: 15px;
+}
+#ziyarat .ornamtss {
+  right: 13px;
+  top: 16px;
+}
+
+}
+@media only screen and (max-width:480px){
+	.image_adjust {
+  top: 120px;
+  width: 42%;
+}.celebrated {
+  display: block;
+}.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+.room-services {
+  padding: 0;
+  margin-top: 41px;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+	#ziyarat .ornamts{ display:none;}
+	#ziyarat .ornamtss {
+  display: none;
+  
+}#ziyarat .departure_box {
+  
+  height: 124px;
+ 
+}
+	.ziyarat_background{ background-image: none;}
+	.departure_box{ width:100%;}
+	.ornamts {
+  left: -34px;
+  width: 100px;
+}
+	.heights > p {
+  font-size: 12px;
+  
+}
+	.heights > h2 {
+  font-size: 12px;
+}
+	.ornamtss {
+  right: -37px;
+  width: 100px;
+}
+	.address{ width:50%;}
+	.address > a {
+  top: -6px;
+  left: -10px;
+}.contact_boxes {
+  margin: 0 auto;
+  width: 100%;
+}
+#umrah .box {
+  width: 45%;
+}
+.phones {
+  margin-top: -8px;
+  margin-right: -30px;
+}
+	.image_adjust {
+  top: 90px;
+  width: 42%;
+		z-index: 1;
+}
+}
+@media only screen and (max-width:479px){
+	.box{ width:45%;}
+	.min_ornaments > p {
+  left: -78px;
+}
+}
+@media only screen and (max-width:440px){
+	.min_widths {
+  width: 100%;
+}.quotes > p {
+  width: 80%;
+}
+	.bg_about {
+  background-position: 57% 56%;
+}
+	.columns {
+  left: 0;
+}
+	#about .tab-data > p{ padding-left:0; padding-right: 0;}
+	.contact_boxes{ width:100%;}
+	.hajj_background{height: 765px; }
+	.boxes {
+  /* overflow-x: scroll; */
+  width: 100%;
+}
+	.bg2 {
+  height: 72px;
+  width: 100% !important;
+}.iata_logos {
+ overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+	
+}
+@media only screen and (max-width:399px){
+	.address {
+  width: 100%;
+}.min_ornaments > p {
+  left: -54px;
+}
+	.emials{ width:7%;}
+	.address > a {
+  left: -78px;
+  top: -6px;
+}
+	.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+.image_adjust {
+  top: 115px;
+  width: 50%;
+  z-index: 1;
+  left: 33px;
+}
+	.hajj_background{height: 765px; }
+	.boxes {
+  /* overflow-x: scroll; */
+  width: 100%;
+}
+	.bg2 {
+  height: 72px;
+  width: 100% !important;
+}
+	
+}
+@media only screen and (max-width:350px){
+	.title > span{ line-height:24px;
+	}
+	.ornaments{ left:12px;}
+	.departure{ width: 100%;}
+	.arribal {
+   
+    width: 100%;
+	}#hotels .carousel-inner{ min-height: auto;}
+	.hajj_background{height: 765px; }
+	.boxes {
+  /* overflow-x: scroll; */
+  width: 100%;
+}
+	.bg2 {
+  height: 72px;
+  width: 100% !important;
+}
+	.departure_box {
+ 
+  height: 225px;
+  
+}
+.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+}
+@media only screen and (max-width:330px){
+	.address > a {
+  left: -70px;
+  top: -6px;
+}.min_ornaments > p {
+  left: -17px;
+}
+.image_adjust {
+  left: 19px;
+  top: 120px;
+  width: 50%;
+  z-index: 1;
+}
+	.hajj_background{height: 765px; }
+	.boxes {
+  /* overflow-x: scroll; */
+  width: 100%;
+}
+	.bg2 {
+  height: 72px;
+  width: 100% !important;
+}
+	.departure_box {
+ 
+  height: 225px;
+  
+}
+.tab-data > p {
+  padding: 0 10px;
+}
+.contact_boxes {
+  height: 745px;
+}
+	.pagetop{margin-top:5px;}
+	.about_padding {
+  padding: 30px 0;
+}
+.columns {
+  left:0;
+}
+	#about .tab-data > p {
+ 
+  padding-left: 15px;
+  padding-right: 15px;
+
+}
+#about .tab-data ul li {
+  border-right: 1px solid transparent  !important;
+}
+#about .box {
+  width: 86%;
+}
+	.field-tip .tip-content{ display:none;}
+	.iata_logos {
+  overflow: hidden;
+	display: none;
+}
+#contactus .connect_boxes {
+  height: auto !important; 
+ 
+}
+	.boxes_address{width: 100%; margin: 54px 0 -37px;}
+	.boxes_address li{left: -31px;width: 100%;}
+}
+
+@media only screen and (max-width: 585px){
+  .umrah_background{
+    height: 184px;
+  }
+  .umrah_background .para_Design{
+    left: 86px;
+    font-size: 24px;
+    top: 61px;
+  }
+  .bgimg-1{
+       padding: 0px 0;
+  }
+  .back_news{
+    border-top: none;
+  }
+  
+  
+}
+
+@media only screen and (max-width: 425px){
+  .umrahtabs .ornamts {
+    left: -19px;
+    top: 96px;
+}
+.umrahtabs .ornamtss {
+  right: -20px;
+  top: 96px;
+}
+.width1{
+  height: 40px;
+}
+.table{
+  margin-top: 22px;
+}
+.umraha_table td{
+  font-size: 11px;
+}
+/* .news_hotel{
+  width: 35%;
+  margin-bottom: 5px;
+}
+.hotelss{
+  width: 35%;
+  margin-bottom: 5px;
+  
+} */
+.ziyarat_background {
+  height: 409px;
+}
+.ziyarat_packages > h2 {
+  font-size: 60px;
+}
+#ziyarat .ziyarat_packages > h2{
+  left: 19px;
+}
+.ziyarat_packages span{
+  top: -9px;
+}
+.ziyarat_packages > h2::before{
+  top: 60px;
+}
+.days{
+  width: 30%;
+}
+.days_content {
+  width: 70%;
+  text-align: justify;
+}
+.days_content ul{
+  padding-left: 0;
+}
+
+
+
+
+}
+
+@media only screen and (min-width: 768px){
+  .umrahtabs .ornamts {
+    left: -42px;
+    top: 61px;
+}
+.umrahtabs .ornamtss {
+  top: 61px;
+}
+
+.table{
+  margin-top: 40px;
+}
+}
